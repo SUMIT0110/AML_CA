@@ -13,7 +13,7 @@ The app uses a dataset hosted on GitHub, which contains text samples and their c
 
 ## Installation and Setup
 1. **Clone the repository**:
-git clone https://github.com/your-username/language-prediction-app.git
+git clone https://github.com/SUMIT0110/Language_Detection.git
 2. **Navigate to the project directory**:
 cd language-prediction-app
 3. **Install required dependencies**:
